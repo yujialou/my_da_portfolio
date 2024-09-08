@@ -5,8 +5,8 @@
 
 
 # Education
-- **MS Business Analytics**, University of Rochester, _2022_
-- **BS Economics & Finance**, University of Nottingham, _2020_
+- **MS Business Analytics**, University of Rochester, US _2022_
+- **BS Economics & Finance**, University of Nottingham, UK _2020_
 
 # Work Experience
 **Data Analyst @Xmotors.ai,**   Santa Clara, CA   _08/2022 - Present_
