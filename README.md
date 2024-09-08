@@ -5,8 +5,8 @@
 
 
 # Education
-MS Business Analytics, University of Rochester, US
-BS Economics & Finance, University of Nottingham, UK
+- MS Business Analytics, University of Rochester, US
+- BS Economics & Finance, University of Nottingham, UK
 
 # Work Experience
 **Data Analyst @Xmotors.ai**
