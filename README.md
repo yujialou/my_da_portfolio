@@ -10,8 +10,11 @@
 
 # Projects
 **Healthcare Data Analysis Using Python**
+
 **Credit Risk Modeling**
+
 **Marketing Data Analysis**
+
 
 # Work Experience
 **Data Analyst @Xmotors.ai,**   Santa Clara, CA   _08/2022 - Present_
