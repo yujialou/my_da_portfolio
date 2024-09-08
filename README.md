@@ -3,7 +3,7 @@
 ## Education
 MS Business Analytics, University of Rochester
 
-### Work Experience
+## Work Experience
 Data Analyst @Xmotors.ai
 
-### Projects
+## Projects
