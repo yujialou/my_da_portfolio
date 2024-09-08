@@ -1,6 +1,6 @@
 # Data Analyst
 
-### Education
+## Education
 MS Business Analytics, University of Rochester
 
 ### Work Experience
