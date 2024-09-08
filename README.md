@@ -8,6 +8,11 @@
 - **MS Business Analytics**, University of Rochester, US _2022_
 - **BS Economics & Finance**, University of Nottingham, UK _2020_
 
+# Projects
+**Healthcare Data Analysis Using Python**
+**Credit Risk Modeling**
+**Marketing Data Analysis**
+
 # Work Experience
 **Data Analyst @Xmotors.ai,**   Santa Clara, CA   _08/2022 - Present_
 - Led EU market data analytics team, collaborated with multi-functional teams and delivered quality data insights timely, significantly boosted model performance from 47% to 73%, enabling successful launches of intelligent autonomous driving models
@@ -23,4 +28,3 @@
 - Identified key metrics and designed a standardized measurement framework to enhance user satisfaction analysis, devised user satisfaction surveys with the product team and analyzed 2k+ sample data biweekly, automated data analysis in **Python** and created visualizations in **Tableau**, which significantly reduced workload by 2 hours
 - Designed **A/B testings** with research team to optimize UX design, implemented experiments and conducted statistical analysis (Chi-squared Test) on the results using **Python**, identified the winning version and tested with eye-tracking technology, improved navigation efficiency and increased DAU significantly by 6%
 
-# Projects
